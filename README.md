@@ -3,7 +3,7 @@ This also contains the code for voice control bluetooth robotic car.<br>
 It has all necessary Libraries included.<br>
 Watch the demo video to have a more clear picture.<br>
 
-![Prototype](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/RoboticCar.jpg)<br>
+![Prototype](https://raw.githubusercontent.com/sarthaksahni1/Bluetooth_Control_Robotic_Cars/master/RoboticCar.jpg)<br>
 
 <b>About The Driver</b>
 L293D is a dual H-bridge motor driver integrated circuit (IC). Motor drivers act as current amplifiers since they take a low-current control signal and provide a higher-current signal. This higher current signal is used to drive the motors.<br>
@@ -16,7 +16,7 @@ Enable pins 1 and 9 (corresponding to the two motors) must be high for motors to
 
 ## Connections
 
-![Connections](https://raw.githubusercontent.com/sarthaksahni1/AiConclave-Medical/master/IC_Connection.jpg)
+![Connections](https://raw.githubusercontent.com/sarthaksahni1/Bluetooth_Control_Robotic_Cars/master/IC_Connection.jpg)
 
 <b>Do It Yourself....!!! Enjoy..</b>
 
